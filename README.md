@@ -11,7 +11,7 @@ A small library that calculate manhattan distance between 2 lat lngs
 
     var manhattan = require('@rohini-p/manhattan');
 
-    var formattedNum = manhattan(12.795251, 80.198697,12.8708,80.1078);
+    var manhattanDistance = manhattan(12.795251, 80.198697,12.8708,80.1078);
   
   
   Output should be `18.51KM`
