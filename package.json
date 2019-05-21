@@ -1,7 +1,7 @@
 {
   "name": "manhattan-distance",
   "preferGlobal": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Rohini <rohinip170794@gmail.com>",
   "description": "manhattan distance for 2 lat lng",
   "license": "MIT",
