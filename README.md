@@ -5,11 +5,11 @@ A small library that calculate manhattan distance between 2 lat lngs
 
 ## Installation
 
-  `npm install @rohini-p/manhattan`
+  `npm install manhattan-distance`
 
 ## Usage
 
-    var manhattan = require('@rohini-p/manhattan');
+    var manhattan = require('manhattan-distance');
 
     var manhattanDistance = manhattan(12.795251, 80.198697,12.8708,80.1078);
   
